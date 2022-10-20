@@ -133,7 +133,7 @@ I dont have post yet but I'm working on it
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=andresruizz09&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=andresruizdev&&style=flat-square" align="center" />
 </div>  
   
 
