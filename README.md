@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andres Ruiz, a Software and Game Developer 👨‍💻 working since 2018 🚀</div>  
+### <div align="center">I'm Andres Ruiz, a Software and Game Developer 👨‍💻 working since 2017 🚀</div>  
   
 
 - 🔭 I’m currently working on [Simple Serial Manager](https://github.com/andresruizdev/SimpleSerialManager)  
