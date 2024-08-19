@@ -128,7 +128,7 @@ I dont have post yet but I'm working on it
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n1p2wrxw554lkpnbav8xlnp8f&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n1p2wrxw554lkpnbav8xlnp8f&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
